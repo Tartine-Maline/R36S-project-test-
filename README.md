@@ -14,7 +14,7 @@ version
 
 INSTALLATION
   Copiez Thermique.sh et uti120.c dans le meme dossier "ports" de la carte SD.
-  (Supprimez les anciens fichiers uti120_new.c et uti120M.sh : ils ne servent pas.)
+  
   Branchez la camera directement sur le port OTG, puis lancez "Thermique".
 
 PREMIER LANCEMENT
@@ -38,7 +38,4 @@ TEMPERATURES
   Pour des valeurs plus fiables : MENU > TEMPERATURE > ETALON PT 1 (eau glacee = 0 C),
   puis ETALON PT 2 sur une cible chaude connue. Reglez aussi le MATERIAU (emissivite).
 
-SI QUELQUE CHOSE NE VA PAS
-  MENU > MANETTE > TEST MANETTE : montre les numeros des axes de vos sticks.
-  Affichage bizarre : creez un fichier vide  uti120_out/rendu_logiciel
-  Envoyez-moi : uti120_out/log_affichage.txt (ou log_precedent.txt), build.txt, settings.cfg
+
