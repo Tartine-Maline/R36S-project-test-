@@ -1,7 +1,15 @@
-Check release !!!!!!
 
 
-CAMERA THERMIQUE UNI-T UTi120Mobile - R36S (dArkOS)  -  version 2
+
+Check release !!!!!!CAMERA THERMIQUE UNI-T UTi120Mobile - R36S (dArkOS)  -  last [IMG_0008_img.bmp](https://github.com/user-attachments/files/35245492/IMG_0008_img.bmp)
+[IMG_0008.txt](https://github.com/user-attachments/files/35245491/IMG_0008.txt)
+[IMG_0008.csv](https://github.com/user-attachments/files/35245490/IMG_0008.csv)
+[IMG_0008.bmp](https://github.com/user-attachments/files/35245489/IMG_0008.bmp)
+[IMG_0007_img.bmp](https://github.com/user-attachments/files/35245488/IMG_0007_img.bmp)
+[IMG_0007.txt](https://github.com/user-attachments/files/35245487/IMG_0007.txt)
+[IMG_0007.csv](https://github.com/user-attachments/files/35245486/IMG_0007.csv)
+[IMG_0007.bmp](https://github.com/user-attachments/files/35245485/IMG_0007.bmp)
+version 
 =================================================================
 
 INSTALLATION
